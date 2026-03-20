@@ -1,1 +1,1 @@
-# vincent-mwange-website.github.io
+# vincent-mwange.github.io
